@@ -1,0 +1,52 @@
+body {
+	background: #000000 ;
+	font-family: "Open sans" ;
+}
+
+#container {
+	margin: 0 auto;
+	width: 1080px;
+}
+
+
+h1 {
+	text-align: center;
+	font-size: 34px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+
+h2 {
+	text-align: left;
+	font-size: 22px;
+	font-weight: bold;
+	color: #FFFFFF ;
+}
+
+
+h3 {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	color: #FFFFFF ;
+}
+
+
+p,ul,li {
+ 	color: #FFFFFF;
+}
+
+
+a {
+	color: #0000FF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+
+a:hover {
+	color: #677E52;
+	font-weight: bold;
+	text-decoration: underline;
+}
